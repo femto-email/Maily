@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/femto-email/client.svg?branch=master)](https://travis-ci.org/femto-email/client)
 # Maily
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/femto-email/client.svg)](https://greenkeeper.io/)
+
 > A cross-platform mail-client with the intent to be fast, reliable and easy to use.
 
 ![](https://puu.sh/vmtT6/b803a88da5.png)
